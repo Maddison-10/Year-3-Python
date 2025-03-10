@@ -1,0 +1,15 @@
+#data types
+character = "D"
+realfloat = 6.7
+integer = 3
+boolean = True
+string = "TFgwhbgjgkvwi47598or9y2h"
+#cribs is  agood way to rememeber
+
+#you can cast for data types
+name = str(input("enter name")
+#we want the data as a string
+age = int(input("enter age")
+#we want it a s a integer
+price = float(input("enter price")
+#we want it as a realfloat
