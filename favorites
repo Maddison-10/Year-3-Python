@@ -1,0 +1,6 @@
+name = input("What is your name")
+print("Hello",name)
+footballteam = input("Who do you support")
+print("Wow, I support",footballteam, "as well")
+age = input("How old are you")
+print(age, "is not that old")
