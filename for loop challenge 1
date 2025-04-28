@@ -1,0 +1,7 @@
+#For loop challenge1 (GCSECS.COM)
+
+#Rearrange the two lines of code below
+#to display the word "kebab" 10 times
+#HINT: There might be some indentation
+for holdingNumbersFromRange in range(10):
+  print("kebab", holdingNumbersFromRange)
